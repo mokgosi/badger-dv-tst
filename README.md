@@ -19,6 +19,11 @@ mysql> exit;
 $  mysql -u root -p badgersdvtst < meta\database.sql
 ```
 
+##Comoser
+
+```bash
+$  composer dump-autoload
+```
 
 ##Finally setup you vhost to point to your proj root folder
 
